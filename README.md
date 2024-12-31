@@ -8,3 +8,5 @@ This project aims to predict the forest cover type using a dataset that contains
 - **Lương Khải Nguyên**  
 - **Dương Minh Dũng**  
 - **Võ Trung Tín** 
+
+Report Link: https://docs.google.com/spreadsheets/d/1Xl-JrtIHlCf5Z1sGSPIlJns-w3_JH-bIOhcdiq3MU50/edit?usp=sharing
